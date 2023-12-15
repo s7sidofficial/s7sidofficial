@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7sidofficial&label=Profile%20views&color=0e75b6&style=flat" alt="s7sidofficial" /> </p>
 
 - 🌱 I’m currently learning **C++ programming, Full-Stack Development.**
+- ⚡ Fun fact **I am a wanderlust 🧳**
 
 - 📫 How to reach me **shashank.837.siddharth@gmail.com**
 
