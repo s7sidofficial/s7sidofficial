@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">A passionate Coder, Developer from India.</h3>
 
-<img align="right" at="Coding" width="500" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
+<img align="right" at="Coding" width="470" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7sidofficial&label=Profile%20views&color=0e75b6&style=flat" alt="s7sidofficial" /> </p>
 
