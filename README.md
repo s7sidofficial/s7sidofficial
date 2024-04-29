@@ -43,3 +43,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s7sidofficial&show_icons=true&locale=en&layout=compact" alt="s7sidofficial" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7sidofficial&show_icons=true&locale=en" alt="s7sidofficial" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s7sidofficial&" alt="s7sidofficial" /></p>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
