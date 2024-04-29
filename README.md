@@ -39,7 +39,5 @@
 
 <br>
 
+![Shashank Kumar Github stats](https://github-readme-stats.vercel.app/api?username=s7sidofficial\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Shashank Kumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s7sidofficial&theme=tokyonight&theme=icegray&border_radius=8)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s7sidofficial&show_icons=true&locale=en&layout=compact" alt="s7sidofficial" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7sidofficial&show_icons=true&locale=en" alt="s7sidofficial" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s7sidofficial&" alt="s7sidofficial" /></p>
